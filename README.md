@@ -14,13 +14,13 @@
 
 - 🤝 I’m looking for help with **Looking for height projects level in my specialization and learning new things**
 
-- 📝 I regularly write articles on (How you can achieve your knowledge in frameworks)
+- 📝 I regularly write articles on: How you can achieve your knowledge in frameworks
 
 - 💬 Ask me about **PHP FramWorks**
 
 - 📫 How to reach me **aadnan.azzakhmam@gmail.com**
 
-- 📄 Know about my experiences (Do it or Live !)
+- 📄 Know about my experiences: Do it or Live!
 
 - ⚡ Fun fact **I think that I'm amusing**
 
