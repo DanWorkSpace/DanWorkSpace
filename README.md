@@ -1,5 +1,5 @@
 ![MasterHead](https://www.atliq.com/wp-content/uploads/2018/08/Top-5-tips-for-hiring-PHP-developers.jpg)
-<h1 align="center">Hi 👋, I'm Aadnan AZZAKHMAM</h1>
+<h1 align="center">Hi 👋, I'm DanWorker</h1>
 <h3 align="center">A passionate frontend & backend developer</h3>
 
 <img align="right" alt="CodePHP" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
