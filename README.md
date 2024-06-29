@@ -1,12 +1,13 @@
 ![MasterHead](https://www.atliq.com/wp-content/uploads/2018/08/Top-5-tips-for-hiring-PHP-developers.jpg)
-<h1 align="center">Hi 👋, I'm DanWorker</h1>
+<h1 align="center">Hi 👋, I'm Co-WorkerDan</h1>
 <h3 align="center">A passionate frontend & backend developer</h3>
 
 <img align="right" alt="CodePHP" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danworkspace&label=Profile%20views&color=0e75b6&style=flat" alt="danworkspace" /> </p>
 
-- 🔭 I’m currently working on **PHP FramWork like "Symfony & Laravel & Magento"**
+- 🔭 I’m currently working on **PHP FramWork like "Symfony & Laravel"                    
+  **
 
 - 🌱 I’m currently learning **React Native with Javascript**
 
