@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danworkspace&label=Profile%20views&color=0e75b6&style=flat" alt="danworkspace" /> </p>
 
-- 🔭 I’m currently working on **PHP FramWork like "Symfony & Laravel"                    
-  **
+- 🔭 I’m currently working on **PHP FramWork like "Symfony & Laravel"
 
 - 🌱 I’m currently learning **React Native with Javascript**
 
