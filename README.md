@@ -1,4 +1,4 @@
-![MasterHead](https://www.atliq.com/wp-content/uploads/2018/08/Top-5-tips-for-hiring-PHP-developers.jpg)
+![MasterHead](https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo-300x158.png)
 <h1 align="center">Hi 👋, I'm Co-WorkerDan</h1>
 <h3 align="center">A passionate frontend & backend developer</h3>
 
