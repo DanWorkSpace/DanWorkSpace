@@ -1,4 +1,4 @@
-![MasterHead](https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo-300x158.png)
+// ![MasterHead](https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo-300x158.png)
 <h1 align="center">Hi 👋, I'm DanDev>. </h1>                                        
   
   
