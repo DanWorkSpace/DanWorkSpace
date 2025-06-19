@@ -1,5 +1,7 @@
 ![MasterHead](https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo-300x158.png)
-<h1 align="center">Hi 👋, I'm Co-WorkerDan</h1>
+<h1 align="center">Hi 👋, I'm DanDev>. </h1>                                        
+  
+  
 <h3 align="center">A passionate frontend & backend developer</h3>
 
 <img align="right"  alt="CodePHP" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">                                                                                   
