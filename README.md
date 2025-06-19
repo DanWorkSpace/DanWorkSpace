@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Co-WorkerDan</h1>
 <h3 align="center">A passionate frontend & backend developer</h3>
 
-<img align="right" alt="CodePHP" width="400" src="https://photos.google.com/photo/AF1QipOl6H3UB6_ySi24cLBlr7HN_XTdG96aCwUR8JSz">                                                            
+<img align="right"  src="https://photos.google.com/photo/AF1QipOl6H3UB6_ySi24cLBlr7HN_XTdG96aCwUR8JSz">                                                                                                    
+  
+  
   
   
   
