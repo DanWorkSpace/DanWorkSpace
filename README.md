@@ -1,4 +1,4 @@
-![MasterHead](https://kinsta.com/wp-content/uploads/2023/03/Symfony-vs-Laravel.png)                                                                                                         
+![MasterHead](https://hello-pomelo.com/wp-content/uploads/2021/03/laravel-vs-symfony.webp)                                                                                                         
 <h1 align="center">Hi 👋, I'm DanDev>. </h1>                                        
   
   
