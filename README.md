@@ -1,4 +1,6 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6on1LDZhOm6tsaNuFdKl9dHkuXYmll9Kti2t2fwSPhZ-9tC5IKx0XIyttm5caMJo2oRI&usqp=CAU)                                                           
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6on1LDZhOm6tsaNuFdKl9dHkuXYmll9Kti2t2fwSPhZ-9tC5IKx0XIyttm5caMJo2oRI&usqp=CAU)                                                                                                                                           
+![MasterHead](https://i0.wp.com/blog.nstecnologia.com.br/wp-content/uploads/2022/03/Laravel-PHP-Framework-1920-px-%C3%97-1080-px-6.png?fit=1920%2C1080&ssl=1)                  
+
 <h1 align="center">Hi 👋, I'm DanDev>. </h1>                                        
   
   
