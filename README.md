@@ -1,8 +1,9 @@
-![MasterHead](https://hello-pomelo.com/wp-content/uploads/2021/03/laravel-vs-symfony.webp)                                                                                                         
+![MasterHead](https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwz4lrwt4l98m3q9l97fg.png) 
+![MasterHead](https://hello-pomelo.com/wp-content/uploads/2021/03/laravel-vs-symfony.webp)                                                                                                                                                                     
 <h1 align="center">Hi 👋, I'm DanDev>. </h1>                                        
   
   
-<h3 align="center">A passionate frontend & backend developer</h3>
+<h3 align="center">A passionate frontend & backend developer "JAVA/Sprig-Boot + Angular"</h3>
 
 <img align="right"  alt="CodePHP" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">                                                                                   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danworkspace&label=Profile%20views&color=0e75b6&style=flat" alt="danworkspace" /> </p>
