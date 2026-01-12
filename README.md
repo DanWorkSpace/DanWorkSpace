@@ -1,4 +1,4 @@
-![MasterHead](https://media2.dev.to/dynamic/image/width=800,height=400,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwz4lrwt4l98m3q9l97fg.png) 
+![MasterHead](https://media2.dev.to/dynamic/image/width=1000,height=400,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwz4lrwt4l98m3q9l97fg.png) 
 ![MasterHead](https://hello-pomelo.com/wp-content/uploads/2021/03/laravel-vs-symfony.webp)                                                                                                                                                                     
 <h1 align="center">Hi 👋, I'm DanDev>. </h1>                                        
   
